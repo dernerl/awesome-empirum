@@ -4,3 +4,7 @@ A collection of manuals, cheatsheets, blogs, one-liners for empirum. For all who
 
 ## helpfull Blogs (DE)
 https://www.wpm-blog.de/
+
+https://www.itnator.net/category/softwareverteilung/
+
+

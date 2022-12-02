@@ -9,7 +9,9 @@ https://www.itnator.net/category/softwareverteilung/
 
 ## Setup.inf
 PowerShell commands
-> Call cmd.exe /c powershell.exe -ExecutionPolicy Bypass -Command "Start-Process -FilePath "C:\Path\To\File" -ArgumentList "/S /qn"" 
+```
+Call cmd.exe /c powershell.exe -ExecutionPolicy Bypass -Command "Start-Process -FilePath "C:\Path\To\File" -ArgumentList "/S /qn"" 
+```
 
 
 

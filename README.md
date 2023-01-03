@@ -8,6 +8,11 @@ https://www.wpm-blog.de/
 https://www.itnator.net/category/softwareverteilung/
 
 ## Setup.inf
+Usefull commands
+```
+[Set:InstCert]
+Certutil -addstore "TrustedPublisher" "%src%\Files\certificate.cer"
+```
 PowerShell commands
 ```
 Call cmd.exe /c powershell.exe -ExecutionPolicy Bypass -Command "Start-Process -FilePath "C:\Path\To\File" -ArgumentList "/S /qn"" 
